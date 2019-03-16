@@ -30,8 +30,25 @@
 # seconds= 42* NUMBER_OF_SECONDS_IN_ONE_MINUTE+ 42
 # print("There are {} seconds...".format(seconds))
 #exersise 2.2
-NUMBER_OF_KILOMETERS_IN_A_MILE = 1.61
-miles= 10/NUMBER_OF_KILOMETERS_IN_A_MILE
-print("There are {:.2f} kilometers in 10 miles".format(miles))
-
+# NUMBER_OF_KILOMETERS_IN_A_MILE = 1.61
+# miles= 10/NUMBER_OF_KILOMETERS_IN_A_MILE
+# print("There are {:.2f} kilometers in 10 miles".format(miles))
+# import math
+# r = input("please enter a number:")
+# r= int(r)
+# import math
+# r = input("please enter a number:")
+# r = float(r)
+# print('After conversion,',type(r))
+# volume =(4/3)*math.pi*math.pow(r,3)
+# print('volume is of a sphere of {} is {:.3f}.'.format(r,volume))
+# hour = 3
+# min = 2
+# print("current time is {:02}:{:02}".format(hour, min ))
+#current time exersise
+import datetime
+now = datetime.datetime.now()
+print(datetime.datetime.now())
+print(datetime.time.hour)
+#Phython Dictionaries
 
