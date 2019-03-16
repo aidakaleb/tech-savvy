@@ -17,7 +17,7 @@
 ######Strings
 # print("I'am\"OK\".")
 # print('I\'m learning\n\nPython.')
-######Boolean
+# #####Boolean
 # print(3>2)
 # print(3>5)
 # print(3>2 or 3>5 or False or 100 < 100)
